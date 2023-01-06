@@ -1,0 +1,1 @@
+Hi everyone. This project is my very first attempt to make a web site, using all I've learned on The Odin Project. It's my first journey onto the HTML language world.
